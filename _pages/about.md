@@ -9,7 +9,7 @@ profile:
   image: slpg-fjwu.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Welcome to S & LP Group Page</p>
+    <p>Welcome to S & LP Group</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
