@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.fjwu.edu.pk'>FJWU</a>. Rawalpindi. Pakistan.
+subtitle: <a href='#'>FJWU</a>. Rawalpindi. Pakistan.
 
 profile:
   align: right
