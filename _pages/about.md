@@ -24,4 +24,4 @@ Welcome to Fatima Jinnah Women University's Speech and Language Processing Group
 * Context-aware machine translation
 * Low-resource machine translation
 
-More details about our project can be found [here](/slpg-fjwu/projects). Also check out the our latest publications and participation in [WMT](http://www2.statmt.org/wmt23/) workshops. 
+More details about our project can be found [here](/projects/). Also check out the our latest publications and participation in [WMT](http://www2.statmt.org/wmt23/) workshops. 
