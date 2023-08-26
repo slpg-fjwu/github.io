@@ -4,7 +4,6 @@ title: Context-aware NMT using Selected Context
 description: An offline context selection technique
 img: assets/img/selected-context.jpg
 importance: 1
-category: work
 related_publications: haq2022context
 ---
 
