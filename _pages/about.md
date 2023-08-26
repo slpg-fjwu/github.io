@@ -8,8 +8,7 @@ profile:
   align: right
   image: slpg-fjwu.JPG
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Welcome to our group!</p>
+  address:Welcome to our group!
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
