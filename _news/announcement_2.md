@@ -1,6 +1,6 @@
 ---
 layout: post
-title: S&LPG Student Won Merit Award @NUST 3 Minute Thesis Competition
+title: Student Won Merit Award @ 3MT
 date: 2022-11-07 16:11:00-0400
 inline: false
 related_posts: false
