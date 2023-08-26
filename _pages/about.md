@@ -9,7 +9,8 @@ profile:
   image: slpg-fjwu.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Speech & Language Processing Group</p>
+    <p>Old Presidency, The Mall 
+    <p>kachari Chowk, Rawalpindi, 46000</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
