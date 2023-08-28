@@ -331,11 +331,14 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  padding-top: 15px;
+  padding-bottom: 15px;
 
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+    text-align: center;
   }
 
   a {
@@ -354,9 +357,7 @@ footer.sticky-bottom {
   padding-bottom: 40px;
   font-size: 0.9rem;
 }
-footer.container.mt-0.footer {
-    text-align: center;
-}
+
 
 // CV
 
